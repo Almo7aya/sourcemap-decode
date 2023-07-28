@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "shuji": "github:mazamachi/shuji#add-preserve-option"
+  }
+}
